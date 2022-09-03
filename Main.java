@@ -9,5 +9,6 @@ public class Main{
         name=sc.nextLine();
         System.out.print("Enter your age: ");
         age=sc.nextInt();
+        System.out.println(name+" "+age);
     }
 }
